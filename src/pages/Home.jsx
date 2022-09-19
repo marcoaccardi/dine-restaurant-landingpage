@@ -15,7 +15,7 @@ const Home = () => {
           title='Exquisite dining since 1989'
           subtitle='Experience our seasonal menu in beautiful country surroundings. Eat the freshest produce from the comfort of our farmhouse.'
         />
-        <Button />
+        <Button link='/booking' btnType='btn--light' btnText='Book a table' />
       </Header>
       {/* <Button />
         <About />

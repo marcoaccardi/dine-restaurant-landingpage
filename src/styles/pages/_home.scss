@@ -1,0 +1,7 @@
+.homeHeader {
+  background-image: url("../../assets/homepage/hero-bg-mobile.jpg");
+  background-size: contain;
+  @include med {
+    background-image: url("../../assets/homepage/hero-bg-tablet.jpg");
+  }
+}
