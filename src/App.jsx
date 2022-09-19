@@ -4,18 +4,16 @@ import Booking from "./pages/Booking";
 import Footer from "./components/Footer";
 import "./styles/main.scss";
 
-function App() {
+const App = () => {
   return (
-    <>
-      <Router>
-        <Routes>
-          <Route exact path='/' component={<Home />} />
-          <Route exact path='/booking' component={<Booking />} />
-        </Routes>
-        <Footer />
-      </Router>
-    </>
+    <Router>
+      <Routes>
+        <Route exact path='/' element={<Home />} />
+        <Route exact path='/booking' element={<Booking />} />
+      </Routes>
+      {/* <Footer />S */}
+    </Router>
   );
-}
+};
 
 export default App;

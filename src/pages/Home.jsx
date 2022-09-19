@@ -10,14 +10,18 @@ import Button from "../components/Button";
 const Home = () => {
   return (
     <>
-      <Header>
-        <HeaderText></HeaderText>
+      <Header hero='homeHeader'>
+        <HeaderText
+          title='Exquisite dining since 1989'
+          subtitle='Experience our seasonal menu in beautiful country surroundings. Eat the freshest produce from the comfort of our farmhouse.'
+        />
         <Button />
+      </Header>
+      {/* <Button />
         <About />
         <MenuList />
         <Events />
-        <CTA />
-      </Header>
+        <CTA /> */}
     </>
   );
 };
