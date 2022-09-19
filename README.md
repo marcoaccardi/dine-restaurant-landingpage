@@ -4,8 +4,9 @@ A landing page for an art gallery, containing a grid of images and a link to the
 
 ### Layout
 
-![](./screenshot_01.png)
-![](./screenshot_02.png)
+![](./public/desktop_preview.jpeg)
+![](./public/mobile_preview.jpeg)
+![](./public/tablet_preview.jpeg)
 
 ### Links
 
@@ -34,7 +35,7 @@ Users should be able to:
 ### How to run the app
 
 ```
-git clone
+git clone https://github.com/marcoaccardi/dine-restaurant-landingpage.git
 npm install
 npm start
 ```
