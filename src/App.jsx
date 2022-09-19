@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import Booking from "./pages/Booking";
 import Footer from "./components/Footer";
 import "./styles/main.scss";
+
 function App() {
   return (
     <>
