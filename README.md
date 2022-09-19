@@ -16,6 +16,10 @@ A landing page for a restaurant build from a figma file.
 
 <img src="./public/mobile_preview.jpeg" alt="Your image title" width="100"/>
 
+#### DESIGN ELEMENTS
+
+<img src="./public/design_system.jpg" alt="Your image title" width="100"/>
+
 ### Links
 
 - [GitHub](https://link)
