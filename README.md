@@ -33,7 +33,8 @@ Users should be able to:
 
 ### How to run the app
 
-```git clone
+```
+git clone
 npm install
 npm start
 ```
