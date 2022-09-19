@@ -4,10 +4,19 @@ A landing page for an art gallery, containing a grid of images and a link to the
 
 ### Layout
 
-![](./public/desktop_preview.jpeg)
-![](./public/mobile_preview.jpeg)
-![](./public/tablet_preview.jpeg)
+#### DESKTOP
 
+<p float="left">
+<img src="./public/desktop_preview.jpeg" alt="Your image title" width="100"/>
+
+#### TABLET
+
+<img src="./public/tablet_preview.jpeg" alt="Your image title" width="100"/>
+
+#### MOBILE
+
+<img src="./public/mobile_preview.jpeg" alt="Your image title" width="100"/>
+</p>
 ### Links
 
 - [GitHub](https://link)
